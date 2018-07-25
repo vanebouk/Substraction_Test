@@ -1,0 +1,6 @@
+G6_SR_k21.fastq
+G6_SR_k33.fastq
+G6_SR_k55.fastq
+G7_SR_k21.fastq
+G7_SR_k33.fastq
+G7_SR_k55.fastq

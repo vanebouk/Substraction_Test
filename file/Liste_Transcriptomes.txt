@@ -1,0 +1,2 @@
+G7_no_Ndup.fastq
+G6_no_Ndup.fastq
